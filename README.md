@@ -237,3 +237,6 @@ Critères :
 * simplification des dépendances
 * sensibilité aux paramètres
  
+## Outils utilisés 
+
+Langage : Python
