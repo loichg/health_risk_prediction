@@ -104,11 +104,7 @@ Objectif : créer une base respectant :
 
 1. Génération des maladies (binaire, selon prévalence)
 
-2. Conversion odds ratio → probabilités :
-
-[
-p_1 = \frac{r \cdot p_0}{1 - p_0 + r \cdot p_0}
-]
+2. Conversion odds ratio → probabilités 
 
 3. Génération des facteurs :
 
